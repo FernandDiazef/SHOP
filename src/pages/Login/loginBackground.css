@@ -1,0 +1,7 @@
+.img-background {
+    background-image: url("https://newmibridges.michigan.gov/resource/1693047735000/ISD_Icons/landing-page/group-3.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+};
